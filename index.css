@@ -1,0 +1,13 @@
+body{
+    background-color: lightgrey;
+};
+
+.video-container{
+
+    <video loop="" muted="" autoplay="" poster="https://elevenfifty.org/wp-content/themes/elevenfiftyacademy/assets/video/mobile.jpg" class="fullscreen-bg__video"><source src="https://elevenfifty.org/wp-content/themes/elevenfiftyacademy/assets/video/EFA-home.webm" type="video/webm"><source src="https://elevenfifty.org/wp-content/themes/elevenfiftyacademy/assets/video/EFA-home.mp4" type="video/mp4"><source src="https://elevenfifty.org/wp-content/themes/elevenfiftyacademy/assets/video/EFA-home.ogv" type="video/ogg"></video>
+}
+
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
